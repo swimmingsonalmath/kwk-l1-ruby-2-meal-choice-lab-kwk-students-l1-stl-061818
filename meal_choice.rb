@@ -20,19 +20,19 @@ puts snacks
 def breakfast(food="Frosted Flakes")
   puts"Morning is the best time for #{food}."
 end 
-breakfast("toast")
+ puts breakfast("pancakes")
 breakfast
 
 def lunch(drink="grilled cheese")
   puts "Noon is the best time for #{drink}."
 end
-lunch("sandwich")
+puts lunch("peanut butter")
 lunch
 
 def dinner(other="salmon")
   puts "Night is the best time to eat #{other}."
 end 
-dinner("chicken") 
+puts dinner("broccoli") 
 dinner
 
 

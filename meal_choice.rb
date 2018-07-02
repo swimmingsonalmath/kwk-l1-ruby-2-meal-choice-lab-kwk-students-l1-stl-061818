@@ -27,13 +27,13 @@ def lunch(drink="grilled cheese")
   puts "Noon is the best time for #{drink}."
 end
 puts lunch("peanut butter")
-lunch
+puts lunch
 
 def dinner(other="salmon")
   puts "Night is the best time to eat #{other}."
 end 
 puts dinner("broccoli") 
-dinner
+puts dinner
 
 
   

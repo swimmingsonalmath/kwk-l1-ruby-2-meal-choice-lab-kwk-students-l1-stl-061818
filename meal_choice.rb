@@ -18,7 +18,7 @@ puts snacks
 
 
 def breakfast(food="Frosted Flakes")
-  puts"Morning is the best time for #{food}."
+  "Morning is the best time for #{food}."
 end 
  puts breakfast("pancakes")
 puts breakfast

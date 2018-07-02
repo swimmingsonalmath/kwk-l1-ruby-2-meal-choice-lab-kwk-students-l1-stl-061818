@@ -21,7 +21,7 @@ def breakfast(food="Frosted Flakes")
   puts"Morning is the best time for #{food}."
 end 
  puts breakfast("pancakes")
-breakfast
+puts breakfast
 
 def lunch(drink="grilled cheese")
   puts "Noon is the best time for #{drink}."
